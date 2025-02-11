@@ -86,13 +86,13 @@ links.onclick = function clear() {
     cont.innerHTML = `<div class="content">
 
     <div class="bt">
-        <a class="link-bt" href="https://app.servidor.maceio.al.gov.br/#/login" target="_blank">
-            <div>
-                <img class="logo-op" src="./img/PONTO3.png" alt="logo ponto">
+                <a class="link-bt" href="https://app.servidor.maceio.al.gov.br/#/login" target="_blank">
+                    <div>
+                        <img class="logo-op" src="./img/PONTO3.png" alt="logo ponto">
+                    </div>
+                </a>
+                <p class="m-title">PONTO <br>ELETRONICO</p>
             </div>
-        </a>
-        <p class="m-title">PONTO <br>ELETRONICO</p>
-    </div>
             
     <div class="bt">
         <a class="link-bt" href="https://mail.sms.maceio.al.gov.br/#1" target="_blank">

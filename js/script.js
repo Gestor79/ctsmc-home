@@ -378,7 +378,46 @@ farm.onclick = function clear() {
     </div>
 </a>
 <p class="m-title">MEDICAMENTOS <br>PARA PARKINSON</p>
-</div>`;
+</div>
+
+<div class="bt">
+<a class="link-bt" href="https://docs.google.com/spreadsheets/d/1xyzrK51uEF6gRyRWi1XIKF6W8hSgMMx9ylEYc-3TnUE/edit?gid=0#gid=0" target="_blank">
+    <div>
+        <img class="logo-pln"
+        src="./img/logPln.png"
+            alt="logo PLANILHA">
+
+    </div>
+</a>
+<p class="m-title">PREENCHIMENTO<br>DO CMM</p>
+</div>
+
+<div class="bt">
+<a class="link-bt" href="https://docs.google.com/spreadsheets/d/1PULQXGJ5pJXEiIRL8Y6SVyCUWE86VzPGpOh2GnSpSqs/edit?gid=0#gid=0" target="_blank">
+    <div>
+        <img class="logo-pln"
+        src="./img/logPln.png"
+            alt="logo PLANILHA">
+
+    </div>
+</a>
+<p class="m-title">DISTRIBUIÇÃO<br>PROTETOR SOLAR</p>
+</div>
+
+<div class="bt">
+<a class="link-bt" href="https://docs.google.com/spreadsheets/d/1h1QMOm-GKhk1U0CEfxhodbfeMExA4-ZTM9qomjAegbE/edit?gid=985608617#gid=985608617" target="_blank">
+    <div>
+        <img class="logo-pln"
+        src="./img/logPln.png"
+            alt="logo PLANILHA">
+
+    </div>
+</a>
+<p class="m-title">CONTROLE DE<br> DISTRIBUIÇÃO</p>
+</div>
+
+
+`;
 }
 
 var farm = document.getElementById("digit");

@@ -597,6 +597,22 @@ logistc.onclick = function clear() {
     cont.innerHTML = "";
     cont.innerHTML = `<div class="content">
     
+   
+     <div class="bt">
+        <a class="link-bt" href="https://lookerstudio.google.com/reporting/33306c48-1daa-4b85-ac1a-e734956f8d69/page/66drE" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/PROCESS.png"
+                    alt="logo PLANILHA">
+
+            </div>
+        </a>
+        <p class="m-title">PROCESSOS DE <br> SOLICITAÇÃO</p>
+    </div>
+    
+    
+    
+    
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/54f46540-4108-4e97-827a-cdde14149667/page/YQxsD" target="_blank">
             <div>

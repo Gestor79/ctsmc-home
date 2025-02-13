@@ -262,12 +262,8 @@ i {
 /* AREA ANTIGA */
 
 .space-area {
-    /* display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center; */
-    width: 90%;
-    height: 90%;
+    width: 100vw;
+    height: 500px;
 
 }
 

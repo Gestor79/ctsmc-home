@@ -205,10 +205,10 @@ notas.onclick = function clear() {
         <p class="m-title">CONTROLE DE ORDENS <br>DE FORNECIMENTO</p>
     </div>
     <div class="bt">
-        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
+        <a class="link-bt" href="https://lookerstudio.google.com/reporting/404d1a58-904d-440b-85e1-db1e0d98d8ab/page/5N6uE" target="_blank">
             <div>
                 <img class="logo-pln"
-                    src="./img/logPln.png"
+                    src="./img/recebe.jpg"
                     alt="logo PLANILHA">
 
             </div>

@@ -521,12 +521,11 @@ notas.onclick = function clear() {
     </div>
     
     <div class="bt">
-        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1Kfvj683CH2Dim3jFR5WbQWUMU3V1hGWhKiaFQFybJnc/edit#gid=0" target="_blank">
+      <a class="link-bt" href="https://lookerstudio.google.com/reporting/404d1a58-904d-440b-85e1-db1e0d98d8ab/page/5N6uE" target="_blank">
             <div>
                 <img class="logo-pln"
-                    src="./img/logPln.png"
-                    alt="logo PLANILHA">
-
+                    src="./img/recebe.jpg"
+                    alt="logo Recebimento">
             </div>
         </a>
         <p class="m-title">CONTROLE DE ORDENS <br>DE FORNECIMENTO</p>

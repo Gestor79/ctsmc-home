@@ -182,6 +182,7 @@ notas.onclick = function clear() {
         </a>
         <p class="m-title">CONTROLE DE <br>PROCESSOS</p>
     </div>
+   
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1vVeHCPjhsgQHqvi018Kl4SmBvOG3EG9LWtYmr8lk40I/edit#gid=0" target="_blank">
             <div>
@@ -193,8 +194,20 @@ notas.onclick = function clear() {
         </a>
         <p class="m-title">CONTROLE DE <br>LICITAÇÕES</p>
     </div>
+    
     <div class="bt">
-        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1Kfvj683CH2Dim3jFR5WbQWUMU3V1hGWhKiaFQFybJnc/edit#gid=0" target="_blank">
+      <a class="link-bt" href="https://lookerstudio.google.com/reporting/404d1a58-904d-440b-85e1-db1e0d98d8ab/page/5N6uE" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/recebe.jpg"
+                    alt="logo Recebimento">
+            </div>
+        </a>
+        <p class="m-title">CONTROLE DE ORDENS <br>DE FORNECIMENTO</p>
+    </div>
+    
+    <div class="bt">
+        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg" target="_blank">
             <div>
                 <img class="logo-pln"
                     src="./img/logPln.png"
@@ -202,19 +215,9 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE ORDENS <br>DE FORNECIMENTO</p>
-    </div>
-    <div class="bt">
-        <a class="link-bt" href="https://lookerstudio.google.com/reporting/404d1a58-904d-440b-85e1-db1e0d98d8ab/page/5N6uE" target="_blank">
-            <div>
-                <img class="logo-pln"
-                    src="./img/recebe.jpg"
-                    alt="logo PLANILHA">
-
-            </div>
-        </a>
         <p class="m-title">CONTROLE DE <br>ESTOQUE E AQUISIÇÃO</p>
     </div>
+   
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
             <div>
@@ -226,6 +229,7 @@ notas.onclick = function clear() {
         </a>
         <p class="m-title">DASHBOARD DE<br> FORNECIMENTO</p>
     </div>
+    
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
             <div>
@@ -499,11 +503,11 @@ notas.onclick = function clear() {
                 <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo PLANILHA">
-
             </div>
         </a>
         <p class="m-title">CONTROLE DE <br>PROCESSOS</p>
     </div>
+   
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1vVeHCPjhsgQHqvi018Kl4SmBvOG3EG9LWtYmr8lk40I/edit#gid=0" target="_blank">
             <div>
@@ -515,6 +519,7 @@ notas.onclick = function clear() {
         </a>
         <p class="m-title">CONTROLE DE <br>LICITAÇÕES</p>
     </div>
+    
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1Kfvj683CH2Dim3jFR5WbQWUMU3V1hGWhKiaFQFybJnc/edit#gid=0" target="_blank">
             <div>
@@ -526,6 +531,8 @@ notas.onclick = function clear() {
         </a>
         <p class="m-title">CONTROLE DE ORDENS <br>DE FORNECIMENTO</p>
     </div>
+    
+    
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
             <div>
@@ -574,6 +581,8 @@ notas.onclick = function clear() {
         </a>
         <p class="m-title">RELATÓRIO DE <br>RECEBIMENTO</p>
     </div>
+    
+    
     <div class="bt">
     <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
         <div>

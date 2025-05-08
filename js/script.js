@@ -105,7 +105,7 @@ links.onclick = function clear() {
 
 
     <div class="bt">
-        <a class="link-bt" href="https://supe.maceio.al.gov.br/pages/comum/login.faces" target="_blank">
+        <a class="link-bt" href="https://supe.maceio.al.gov.br" target="_blank">
             <div>
                 <img class="logo-op" src="./img/logo_prefeitura.png" alt="logo prefeitura">
 

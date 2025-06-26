@@ -94,14 +94,14 @@ links.onclick = function clear() {
                 <p class="m-title">PONTO <br>ELETRONICO</p>
             </div>
             
-    <div class="bt">
-        <a class="link-bt" href="https://mail.sms.maceio.al.gov.br/#1" target="_blank">
-            <div>
-                <img class="logo-op" src="./img/ZIMBRA.png" alt="logo ZIMBRA">
-            </div>
-        </a>
-        <p class="m-title">ZIMBRA</p>
-    </div>
+    // <div class="bt">
+    //     <a class="link-bt" href="https://mail.sms.maceio.al.gov.br/#1" target="_blank">
+    //         <div>
+    //             <img class="logo-op" src="./img/ZIMBRA.png" alt="logo ZIMBRA">
+    //         </div>
+    //     </a>
+    //     <p class="m-title">ZIMBRA</p>
+    // </div>
 
 
     <div class="bt">

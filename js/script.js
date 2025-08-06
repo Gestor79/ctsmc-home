@@ -327,6 +327,19 @@ farm.onclick = function clear() {
     let cont = document.getElementById("space");
     cont.innerHTML = "";
     cont.innerHTML = ` <div class="content"> 
+
+<div class="bt">
+    <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxxMDJaerKT1hq-oCdQ0LOMFyyCDwN71tracdBfNd-uHVujU6794QBMPcej95LhUcl7bg/exec" target="_blank">
+        <div>
+            <img class="logo-pnm"
+                src="./img/pedido1.png"
+                alt="logo Pedido">
+
+        </div>
+    </a>
+    <p class="m-title">CONTROLE DE <br>PEDIDOS (EM CONSTRUÇÃO)</p>
+</div>
+
 <div class="bt">
     <a class="link-bt" href="https://pnm.sms.maceio.al.gov.br/" target="_blank">
         <div>
@@ -723,3 +736,4 @@ logistc.onclick = function clear() {
 
     </div>`;
 }
+

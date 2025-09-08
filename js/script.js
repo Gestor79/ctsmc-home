@@ -329,7 +329,7 @@ farm.onclick = function clear() {
     cont.innerHTML = ` <div class="content"> 
 
 <div class="bt">
-    <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxxMDJaerKT1hq-oCdQ0LOMFyyCDwN71tracdBfNd-uHVujU6794QBMPcej95LhUcl7bg/exec" target="_blank">
+    <a class="link-bt" href="https://script.google.com/macros/s/AKfycbwAvCw0KVp6fiYw7lktrVVtLPdsW9Lvq61xT9fEJSeB836wt1Zed7bobTApO-U7kHFj-w/exec" target="_blank">
         <div>
             <img class="logo-pnm"
                 src="./img/pedido1.png"
@@ -736,4 +736,5 @@ logistc.onclick = function clear() {
 
     </div>`;
 }
+
 

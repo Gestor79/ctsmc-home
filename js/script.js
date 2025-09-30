@@ -337,7 +337,7 @@ farm.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">CONTROLE DE <br>PEDIDOS (EM CONSTRUÇÃO)</p>
+    <p class="m-title">CONTROLE DE <br>PEDIDOS (Beta Teste)</p>
 </div>
 
 <div class="bt">
@@ -736,5 +736,6 @@ logistc.onclick = function clear() {
 
     </div>`;
 }
+
 
 

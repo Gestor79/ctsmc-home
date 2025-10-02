@@ -316,6 +316,18 @@ logistc.onclick = function clear() {
     <p class="m-title">INFORME <br>DE ROTA</p>
 </div>
 
+<div class="bt">
+    <a class="link-bt" href="https://lookerstudio.google.com/reporting/6de97b53-69b2-4a9e-820a-21012b566e25/page/r7XYF" target="_blank">
+        <div>
+            <img class="logo-pln"
+                src="./img/SEPARA.jpg"
+                alt="logo prefeitura">
+
+        </div>
+    </a>
+    <p class="m-title">SEPARAÇÃO <br>DE PEDIDOS</p>
+</div>
+
 </div>`;
 }
 
@@ -736,6 +748,7 @@ logistc.onclick = function clear() {
 
     </div>`;
 }
+
 
 
 

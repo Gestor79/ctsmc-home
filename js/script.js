@@ -258,6 +258,22 @@ logistc.onclick = function clear() {
     cont.innerHTML = "";
     cont.innerHTML = `<div class="content">
     <div class="bt">
+        <a class="link-bt" href="https://cafestoque-ybncapwf.manus.space/" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/placaProduto2.png"
+                    alt="logo prefeitura">
+
+            </div>
+        </a>
+        <p class="m-title">Placas - Lotes</p>
+    </div>
+    
+    
+    
+    
+    
+    <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/12nt-Tvl4Jpzye9f2D1ieC2MKq6O6jtWgUPUWH0IK5zE/edit?pli=1#gid=0" target="_blank">
             <div>
                 <img class="logo-pln"
@@ -748,6 +764,7 @@ logistc.onclick = function clear() {
 
     </div>`;
 }
+
 
 
 

@@ -357,7 +357,7 @@ farm.onclick = function clear() {
     cont.innerHTML = ` <div class="content"> 
 
 <div class="bt">
-    <a class="link-bt" href="https://script.google.com/macros/s/AKfycbydp-pB9ud9Osj7ADH1HnQn5IQBpWWyixasie3tI9wUXJL-tKEcfg2xv1380ifBsEigvQ/exec" target="_blank">
+    <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxceSHNIVMzHCLD4200LQ-GtQTbmb9m5pkq2GawxwbwgbnZytozoqld3-WXhMFCfYC_Vw/exec" target="_blank">
         <div>
             <img class="logo-pnm"
                 src="./img/pedido1.png"
@@ -365,7 +365,7 @@ farm.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">CONTROLE DE <br>PEDIDOS (Beta Teste)</p>
+    <p class="m-title">CONTROLE DE <br>PEDIDOS (V2)</p>
 </div>
 
 <div class="bt">
@@ -764,6 +764,7 @@ logistc.onclick = function clear() {
 
     </div>`;
 }
+
 
 
 

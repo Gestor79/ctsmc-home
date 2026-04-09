@@ -257,6 +257,7 @@ logistc.onclick = function clear() {
     let cont = document.getElementById("space");
     cont.innerHTML = "";
     cont.innerHTML = `<div class="content">
+    
     <div class="bt">
         <a class="link-bt" href="https://cafestoque-ybncapwf.manus.space/" target="_blank">
             <div>
@@ -270,7 +271,16 @@ logistc.onclick = function clear() {
     </div>
     
     
-    
+    <div class="bt">
+        <a class="link-bt" href="https://script.google.com/macros/s/AKfycbzSzkHDaue7t_HBvqxm-ty8vhgHyeoloYtAsoHaZdcT2RMmFGY2P9C4BrfEhp_Nokpr/exec" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/logLote.jpg"
+                    alt="logo do inventário">
+            </div>
+        </a>
+        <p class="m-title">Inventário</p>
+    </div>
     
     
     <div class="bt">

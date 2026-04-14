@@ -194,7 +194,7 @@ notas.onclick = function clear() {
                     alt="logo RH">
             </div>
         </a>
-        <p class="m-title">SISTEMA DE<br> RECURSOS HUMANOS</p>
+        <p class="m-title">SISTEMA DE<br> RECURSOS HUMANOS E PROCESSOS</p>
     </div>
     
     <div class="bt">
@@ -582,7 +582,7 @@ notas.onclick = function clear() {
                     alt="logo RH">
             </div>
         </a>
-        <p class="m-title">SISTEMA DE<br> RECURSOS HUMANOS</p>
+        <p class="m-title">SISTEMA DE<br> RECURSOS HUMANOS  E PROCESSOS</p>
     </div>
     
     

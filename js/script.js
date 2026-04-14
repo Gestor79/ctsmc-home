@@ -187,14 +187,14 @@ notas.onclick = function clear() {
     </div>
     
     <div class="bt">
-      <a class="link-bt" href="https://lookerstudio.google.com/reporting/404d1a58-904d-440b-85e1-db1e0d98d8ab/page/5N6uE" target="_blank">
+      <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxOWgGd4GyrFWCz2YKPm48YPkDv8VDDmknU25ffbAfTk_ThRgOaHbT19EXTTHIo2nwxmg/exec" target="_blank">
             <div>
                 <img class="logo-pln"
-                    src="./img/recebe.jpg"
-                    alt="logo Recebimento">
+                    src="./img/LogoRH1.jpg"
+                    alt="logo RH">
             </div>
         </a>
-        <p class="m-title">CONTROLE DE ORDENS <br>DE FORNECIMENTO</p>
+        <p class="m-title">SISTEMA DE<br> RECURSOS HUMANOS</p>
     </div>
     
     <div class="bt">

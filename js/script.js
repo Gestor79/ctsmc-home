@@ -474,6 +474,18 @@ farm.onclick = function clear() {
 <p class="m-title">CONTROLE DE<br> DISTRIBUIÇÃO</p>
 </div>
 
+<div class="bt">
+<a class="link-bt" href="https://docs.google.com/spreadsheets/d/1oPnBQRwiN0-V4TD2PpNZRvOHAlVoibVDG7x8mDteJo0/edit?gid=0#gid=0" target="_blank">
+    <div>
+        <img class="logo-pln"
+        src="./img/logPln.png"
+            alt="logo PLANILHA">
+
+    </div>
+</a>
+<p class="m-title">CONTROLE DE RECEBIMENTO<br> DE PACIENTES ESPOROTRICOSE</p>
+</div>
+
 
 `;
 }

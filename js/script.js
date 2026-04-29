@@ -415,6 +415,18 @@ farm.onclick = function clear() {
 </div>
 
 <div class="bt">
+<a class="link-bt" href="https://docs.google.com/spreadsheets/d/1ZsrePUme2eCDsZ6KI5Xx2OxoyYbe346JFq5kNb2ekmg/edit?gid=465342665#gid=465342665" target="_blank">
+    <div>
+        <img class="logo-pln"
+        src="./img/logPln.png"
+            alt="logo PLANILHA">
+
+    </div>
+</a>
+<p class="m-title">CTSMC - INSULINODEPENDENTES<br>2026</p>
+</div>
+
+<div class="bt">
 <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1E9WnXNCCtgfXAoG1-v1V3jVPMqFV1JZC1SdaXaGcm5Q/edit#gid=835047668" target="_blank">
     <div>
         <img class="logo-pln"

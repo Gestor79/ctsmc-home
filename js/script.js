@@ -370,7 +370,7 @@ farm.onclick = function clear() {
     <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxceSHNIVMzHCLD4200LQ-GtQTbmb9m5pkq2GawxwbwgbnZytozoqld3-WXhMFCfYC_Vw/exec" target="_blank">
         <div>
             <img class="logo-pnm"
-                src="./img/pedido1.png"
+                src="./img/siclop_v1.png"
                 alt="logo Pedido">
 
         </div>

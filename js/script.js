@@ -190,7 +190,7 @@ notas.onclick = function clear() {
       <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxOWgGd4GyrFWCz2YKPm48YPkDv8VDDmknU25ffbAfTk_ThRgOaHbT19EXTTHIo2nwxmg/exec" target="_blank">
             <div>
                 <img class="logo-pln"
-                    src="./img/pplogo.png"
+                    src="./img/pplogo2.png"
                     alt="logo RH">
             </div>
         </a>
@@ -602,7 +602,7 @@ notas.onclick = function clear() {
       <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxOWgGd4GyrFWCz2YKPm48YPkDv8VDDmknU25ffbAfTk_ThRgOaHbT19EXTTHIo2nwxmg/exec" target="_blank">
             <div>
                 <img class="logo-pln"
-                    src="./img/pplogo.png"
+                    src="./img/pplogo2.png"
                     alt="logo RH">
             </div>
         </a>

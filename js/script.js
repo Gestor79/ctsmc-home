@@ -282,18 +282,7 @@ logistc.onclick = function clear() {
         <p class="m-title">INVENTÁRIO</p>
     </div>
 
-    <div class="bt">
-        <a class="link-bt" href=" https://script.google.com/macros/s/AKfycbyoREftluEukcrPKa4bFkWlAbmmXO-NYFMA0mHjPSle9IjmVO6DHLenGhBj9at_mevC/exec" target="_blank">
-            <div>
-                <img class="logo-log"
-                    src="./img/logLote.jpg"
-                    alt="logo do inventário">
-            </div>
-        </a>
-        <p class="m-title">INVENTÁRIO<br>RÁPIDO</p>
-    </div>
-    
-    
+       
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/12nt-Tvl4Jpzye9f2D1ieC2MKq6O6jtWgUPUWH0IK5zE/edit?pli=1#gid=0" target="_blank">
             <div>

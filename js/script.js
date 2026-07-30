@@ -63,7 +63,7 @@ jQuery(document).ready(function ($) {
 // ==========================================
 // $(window).on('load',function () {
 //     var current = location.pathname;
-//     console.log(current);
+//     console.(current);
 //     $('#navbarSupportedContent ul li a').each(function(){
 //         var $this = $(this);
 //         // if the current path is like this link, make it active
@@ -86,9 +86,9 @@ links.onclick = function clear() {
     cont.innerHTML = `<div class="content">
 
     <div class="bt">
-                <a class="link-bt" href="https://app.servidor.maceio.al.gov.br/#/login" target="_blank">
+                <a class="link-bt" href="https://app.servidor.maceio.al.gov.br/#/in" target="_blank">
                     <div>
-                        <img class="logo-op" src="./img/PONTO3.png" alt="logo ponto">
+                        <img class="o-op" src="./img/PONTO3.png" alt="o ponto">
                     </div>
                 </a>
                 <p class="m-title">PONTO <br>ELETRONICO</p>
@@ -98,7 +98,7 @@ links.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://supe.maceio.al.gov.br" target="_blank">
             <div>
-                <img class="logo-op" src="./img/logo_prefeitura.png" alt="logo prefeitura">
+                <img class="o-op" src="./img/o_prefeitura.png" alt="o prefeitura">
 
             </div>
         </a>
@@ -110,7 +110,7 @@ links.onclick = function clear() {
             href="http://www.licitacao.maceio.al.gov.br/pesquisar?modalidade=1&ano=2019&numero=95&objeto=&orgao=&cota=&status="
             target="_blank">
             <div>
-                <img class="logo-op" src="./img/LIC.png" alt="logo Alic">
+                <img class="o-op" src="./img/LIC.png" alt="o Alic">
             </div>
         </a>
         <p class="m-title">LICITAÇÕES</p>
@@ -119,7 +119,7 @@ links.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://www.diariomunicipal.com.br/maceio" target="_blank">
             <div>
-                <img class="logo-op" src="./img/logo_prefeitura.png" alt="logo prefeitura">
+                <img class="o-op" src="./img/o_prefeitura.png" alt="o prefeitura">
             </div>
         </a>
         <p class="m-title">DIÁRIO<br> OFICIAL</p>
@@ -128,7 +128,7 @@ links.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="http://scaweb.saude.gov.br/scaweb/" target="_blank">
             <div>
-                <img class="logo-op" src="./img/logoHorus.jpg" alt="logo Horus">
+                <img class="o-op" src="./img/oHorus.jpg" alt="o Horus">
             </div>
         </a>
         <p class="m-title">HÓRUS</p>
@@ -137,7 +137,7 @@ links.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://consultas.anvisa.gov.br/#/medicamentos/" target="_blank">
             <div>
-                <img class="logo-op" src="./img/ANVISA.png" alt="logo Anvisa">
+                <img class="o-op" src="./img/ANVISA.png" alt="o Anvisa">
             </div>
         </a>
         <p class="m-title">ANVISA<br> MEDICAMENTOS</p>
@@ -146,7 +146,7 @@ links.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://consultas.anvisa.gov.br/#/saude/" target="_blank">
             <div>
-                <img class="logo-op" src="./img/ANVISA.png" alt="logo Anvisa">
+                <img class="o-op" src="./img/ANVISA.png" alt="o Anvisa">
             </div>
         </a>
         <p class="m-title">ANVISA <br>CORRELATOS</p>
@@ -165,9 +165,9 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1k_uLfMnK54yVOdtXqXGyRjQci26EpbYrCPLHKCCcsek/edit#gid=0" target="_blank">
             <div>
-                <img class="logo-pln"
-                    src="./img/logPln.png"
-                    alt="logo PLANILHA">
+                <img class="o-pln"
+                    src="./img/Pln.png"
+                    alt="o PLANILHA">
 
             </div>
         </a>
@@ -177,9 +177,9 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1vVeHCPjhsgQHqvi018Kl4SmBvOG3EG9LWtYmr8lk40I/edit#gid=0" target="_blank">
             <div>
-                <img class="logo-pln"
-                    src="./img/logPln.png"
-                    alt="logo PLANILHA">
+                <img class="o-pln"
+                    src="./img/Pln.png"
+                    alt="o PLANILHA">
 
             </div>
         </a>
@@ -189,9 +189,9 @@ notas.onclick = function clear() {
     <div class="bt">
       <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxOWgGd4GyrFWCz2YKPm48YPkDv8VDDmknU25ffbAfTk_ThRgOaHbT19EXTTHIo2nwxmg/exec" target="_blank">
             <div>
-                <img class="logo-pln"
-                    src="./img/pplogo2.png"
-                    alt="logo RH">
+                <img class="o-pln"
+                    src="./img/ppo2.png"
+                    alt="o RH">
             </div>
         </a>
         <p class="m-title">SISTEMA DE<br> RECURSOS HUMANOS E PROCESSOS</p>
@@ -200,9 +200,9 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg" target="_blank">
             <div>
-                <img class="logo-pln"
-                    src="./img/logPln.png"
-                    alt="logo PLANILHA">
+                <img class="o-pln"
+                    src="./img/Pln.png"
+                    alt="o PLANILHA">
 
             </div>
         </a>
@@ -212,9 +212,9 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="o-op"
                     src="./img/DASHBOARD.png"
-                    alt="logo DASHBOARD">
+                    alt="o DASHBOARD">
 
             </div>
         </a>
@@ -224,9 +224,9 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="o-op"
                     src="./img/ENTREGA.png"
-                    alt="logo ENTREGA">
+                    alt="o ENTREGA">
 
             </div>
         </a>
@@ -238,9 +238,9 @@ notas.onclick = function clear() {
     <div class="bt">
     <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
         <div>
-            <img class="logo-op"
+            <img class="o-op"
                 src="./img/AGENDA.png"
-                alt="logo ENTREGA">
+                alt="o ENTREGA">
 
         </div>
     </a>
@@ -251,7 +251,7 @@ notas.onclick = function clear() {
 
 // =================================================================================================
 
-var logistc = document.getElementById("log");
+var istc = document.getElementById("log");
 
 logistc.onclick = function clear() {
     let cont = document.getElementById("space");
@@ -280,6 +280,17 @@ logistc.onclick = function clear() {
             </div>
         </a>
         <p class="m-title">INVENTÁRIO</p>
+    </div>
+
+    <div class="bt">
+        <a class="link-bt" href=" https://script.google.com/macros/s/AKfycbyoREftluEukcrPKa4bFkWlAbmmXO-NYFMA0mHjPSle9IjmVO6DHLenGhBj9at_mevC/exec" target="_blank">
+            <div>
+                <img class="logo-log"
+                    src="./img/logLote.jpg"
+                    alt="logo do inventário">
+            </div>
+        </a>
+        <p class="m-title">INVENTÁRIO RÁPIDO</p>
     </div>
     
     

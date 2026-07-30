@@ -290,7 +290,7 @@ logistc.onclick = function clear() {
                     alt="logo do inventário">
             </div>
         </a>
-        <p class="m-title">INVENTÁRIO RÁPIDO</p>
+        <p class="m-title">INVENTÁRIO<br>RÁPIDO</p>
     </div>
     
     

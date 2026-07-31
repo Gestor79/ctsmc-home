@@ -57,27 +57,6 @@ jQuery(document).ready(function ($) {
 });
 
 
-
-
-// Add active class on another page linked
-// ==========================================
-// $(window).on('load',function () {
-//     var current = location.pathname;
-//     console.(current);
-//     $('#navbarSupportedContent ul li a').each(function(){
-//         var $this = $(this);
-//         // if the current path is like this link, make it active
-//         if($this.attr('href').indexOf(current) !== -1){
-//             $this.parent().addClass('active');
-//             $this.parents('.menu-submenu').addClass('show-dropdown');
-//             $this.parents('.menu-submenu').parent().addClass('active');
-//         }else{
-//             $this.parent().removeClass('active');
-//         }
-//     })
-// });
-
-
 var links = document.getElementById("links");
 
 links.onclick = function clear() {
@@ -86,20 +65,18 @@ links.onclick = function clear() {
     cont.innerHTML = `<div class="content">
 
     <div class="bt">
-                <a class="link-bt" href="https://app.servidor.maceio.al.gov.br/#/in" target="_blank">
-                    <div>
-                        <img class="o-op" src="./img/PONTO3.png" alt="o ponto">
-                    </div>
-                </a>
-                <p class="m-title">PONTO <br>ELETRONICO</p>
+        <a class="link-bt" href="https://app.servidor.maceio.al.gov.br/#/in" target="_blank">
+            <div>
+                <img class="logo-op" src="./img/PONTO3.png" alt="logo ponto">
             </div>
-            
+        </a>
+        <p class="m-title">PONTO <br>ELETRONICO</p>
+    </div>
     
     <div class="bt">
         <a class="link-bt" href="https://supe.maceio.al.gov.br" target="_blank">
             <div>
-                <img class="o-op" src="./img/o_prefeitura.png" alt="o prefeitura">
-
+                <img class="logo-op" src="./img/logo_prefeitura.png" alt="logo prefeitura">
             </div>
         </a>
         <p class="m-title">SUPE</p>
@@ -110,7 +87,7 @@ links.onclick = function clear() {
             href="http://www.licitacao.maceio.al.gov.br/pesquisar?modalidade=1&ano=2019&numero=95&objeto=&orgao=&cota=&status="
             target="_blank">
             <div>
-                <img class="o-op" src="./img/LIC.png" alt="o Alic">
+                <img class="logo-op" src="./img/LIC.png" alt="logo Alic">
             </div>
         </a>
         <p class="m-title">LICITAÇÕES</p>
@@ -119,7 +96,7 @@ links.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://www.diariomunicipal.com.br/maceio" target="_blank">
             <div>
-                <img class="o-op" src="./img/o_prefeitura.png" alt="o prefeitura">
+                <img class="logo-op" src="./img/logo_prefeitura.png" alt="logo prefeitura">
             </div>
         </a>
         <p class="m-title">DIÁRIO<br> OFICIAL</p>
@@ -128,7 +105,7 @@ links.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="http://scaweb.saude.gov.br/scaweb/" target="_blank">
             <div>
-                <img class="o-op" src="./img/oHorus.jpg" alt="o Horus">
+                <img class="logo-op" src="./img/logoHorus.jpg" alt="logo Horus">
             </div>
         </a>
         <p class="m-title">HÓRUS</p>
@@ -137,7 +114,7 @@ links.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://consultas.anvisa.gov.br/#/medicamentos/" target="_blank">
             <div>
-                <img class="o-op" src="./img/ANVISA.png" alt="o Anvisa">
+                <img class="logo-op" src="./img/ANVISA.png" alt="logo Anvisa">
             </div>
         </a>
         <p class="m-title">ANVISA<br> MEDICAMENTOS</p>
@@ -146,7 +123,7 @@ links.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://consultas.anvisa.gov.br/#/saude/" target="_blank">
             <div>
-                <img class="o-op" src="./img/ANVISA.png" alt="o Anvisa">
+                <img class="logo-op" src="./img/ANVISA.png" alt="logo Anvisa">
             </div>
         </a>
         <p class="m-title">ANVISA <br>CORRELATOS</p>
@@ -165,9 +142,9 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1k_uLfMnK54yVOdtXqXGyRjQci26EpbYrCPLHKCCcsek/edit#gid=0" target="_blank">
             <div>
-                <img class="o-pln"
-                    src="./img/Pln.png"
-                    alt="o PLANILHA">
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo PLANILHA">
 
             </div>
         </a>
@@ -177,9 +154,9 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1vVeHCPjhsgQHqvi018Kl4SmBvOG3EG9LWtYmr8lk40I/edit#gid=0" target="_blank">
             <div>
-                <img class="o-pln"
-                    src="./img/Pln.png"
-                    alt="o PLANILHA">
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo PLANILHA">
 
             </div>
         </a>
@@ -189,9 +166,9 @@ notas.onclick = function clear() {
     <div class="bt">
       <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxOWgGd4GyrFWCz2YKPm48YPkDv8VDDmknU25ffbAfTk_ThRgOaHbT19EXTTHIo2nwxmg/exec" target="_blank">
             <div>
-                <img class="o-pln"
-                    src="./img/ppo2.png"
-                    alt="o RH">
+                <img class="logo-pln"
+                    src="./img/pplogo2.png"
+                    alt="logo RH">
             </div>
         </a>
         <p class="m-title">SISTEMA DE<br> RECURSOS HUMANOS E PROCESSOS</p>
@@ -200,9 +177,9 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg" target="_blank">
             <div>
-                <img class="o-pln"
-                    src="./img/Pln.png"
-                    alt="o PLANILHA">
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo PLANILHA">
 
             </div>
         </a>
@@ -212,9 +189,9 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
             <div>
-                <img class="o-op"
+                <img class="logo-op"
                     src="./img/DASHBOARD.png"
-                    alt="o DASHBOARD">
+                    alt="logo DASHBOARD">
 
             </div>
         </a>
@@ -224,23 +201,21 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
             <div>
-                <img class="o-op"
+                <img class="logo-op"
                     src="./img/ENTREGA.png"
-                    alt="o ENTREGA">
+                    alt="logo ENTREGA">
 
             </div>
         </a>
         <p class="m-title">RELATÓRIO DE<br> RECEBIMENTO</p>
     </div>
 
-
-
     <div class="bt">
     <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
         <div>
-            <img class="o-op"
+            <img class="logo-op"
                 src="./img/AGENDA.png"
-                alt="o ENTREGA">
+                alt="logo ENTREGA">
 
         </div>
     </a>
@@ -251,7 +226,7 @@ notas.onclick = function clear() {
 
 // =================================================================================================
 
-var istc = document.getElementById("log");
+var logistc = document.getElementById("logistc");
 
 logistc.onclick = function clear() {
     let cont = document.getElementById("space");
@@ -270,6 +245,16 @@ logistc.onclick = function clear() {
         <p class="m-title">PLACAS - LOTES</p>
     </div>
     
+    <div class="bt">
+        <a class="link-bt" href="https://script.google.com/macros/s/AKfycbyoREftluEukcrPKa4bFkWlAbmmXO-NYFMA0mHjPSle9IjmVO6DHLenGhBj9at_mevC/exec" target="_blank">
+            <div>
+                <img class="logo-log"
+                    src="./img/recebe.jpg"
+                    alt="logo do inventário">
+            </div>
+        </a>
+        <p class="m-title">INVENTÁRIO <br>RÁPIDO</p>
+    </div>
     
     <div class="bt">
         <a class="link-bt" href="https://script.google.com/macros/s/AKfycbzSzkHDaue7t_HBvqxm-ty8vhgHyeoloYtAsoHaZdcT2RMmFGY2P9C4BrfEhp_Nokpr/exec" target="_blank">
@@ -502,9 +487,12 @@ farm.onclick = function clear() {
 `;
 }
 
-var farm = document.getElementById("digit");
+// =================================================================================================
 
-farm.onclick = function clear() {
+// CORREÇÃO: Botão ATENDIMENTO
+var digit = document.getElementById("digit");
+
+digit.onclick = function clear() {
     let cont = document.getElementById("space");
     cont.innerHTML = "";
     cont.innerHTML = ` <div class="content">
@@ -569,116 +557,12 @@ farm.onclick = function clear() {
     `;
 }
 
-var notas = document.getElementById("notas");
-
-notas.onclick = function clear() {
-    let cont = document.getElementById("space");
-    cont.innerHTML = "";
-    cont.innerHTML = ` <div class="content">
-    <div class="bt">
-        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1k_uLfMnK54yVOdtXqXGyRjQci26EpbYrCPLHKCCcsek/edit#gid=0" target="_blank">
-            <div>
-                <img class="logo-pln"
-                    src="./img/logPln.png"
-                    alt="logo PLANILHA">
-            </div>
-        </a>
-        <p class="m-title">CONTROLE DE <br>PROCESSOS</p>
-    </div>
-   
-    <div class="bt">
-        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1vVeHCPjhsgQHqvi018Kl4SmBvOG3EG9LWtYmr8lk40I/edit#gid=0" target="_blank">
-            <div>
-                <img class="logo-pln"
-                    src="./img/logPln.png"
-                    alt="logo PLANILHA">
-
-            </div>
-        </a>
-        <p class="m-title">CONTROLE DE <br>LICITAÇÕES</p>
-    </div>
-    
-    <div class="bt">
-      <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxOWgGd4GyrFWCz2YKPm48YPkDv8VDDmknU25ffbAfTk_ThRgOaHbT19EXTTHIo2nwxmg/exec" target="_blank">
-            <div>
-                <img class="logo-pln"
-                    src="./img/pplogo2.png"
-                    alt="logo RH">
-            </div>
-        </a>
-        <p class="m-title">SISTEMA DE<br> RECURSOS HUMANOS  E PROCESSOS</p>
-    </div>
-    
-    
-    <div class="bt">
-        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
-            <div>
-                <img class="logo-pln"
-                    src="./img/logPln.png"
-                    alt="logo PLANILHA">
-
-            </div>
-        </a>
-        <p class="m-title">CONTROLE DE ESTOQUE<br> E AQUISIÇÃO</p>
-    </div>
-
-    <div class="bt">
-    <a class="link-bt" href="https://docs.google.com/spreadsheets/d/12wZFdK-OZtVdjdblo9anzPEUcmKUl7clcP8hV2KJ-8I/edit?gid=1105577122#gid=1105577122" target="_blank">
-        <div>
-            <img class="logo-pln"
-                src="./img/logPln.png"
-                alt="logo PLANILHA">
-
-        </div>
-    </a>
-    <p class="m-title">CONTROLE DE NOTAS<br> PARA PAGAMENTO</p>
-</div>
-
-    <div class="bt">
-        <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
-            <div>
-                <img class="logo-op"
-                    src="./img/DASHBOARD.png"
-                    alt="logo DASHBOARD">
-
-            </div>
-        </a>
-        <p class="m-title">DASHBOARD DE <br>FORNECIMENTO</p>
-
-    </div>
-
-     <div class="bt">
-        <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
-            <div>
-                <img class="logo-op"
-                    src="./img/ENTREGA.png"
-                    alt="logo ENTREGA">
-
-            </div>
-        </a>
-        <p class="m-title">RELATÓRIO DE <br>RECEBIMENTO</p>
-    </div>
-    
-    
-    <div class="bt">
-    <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
-        <div>
-            <img class="logo-op"
-                src="./img/AGENDA.png"
-                alt="logo ENTREGA">
-
-        </div>
-    </a>
-    <p class="m-title">LISTA DE <br>ENTREGAS AGENDADAS</p>
-</div>
-    </div>`
-}
-
 // =================================================================================================
 
-var logistc = document.getElementById("coord");
+// CORREÇÃO: Botão CGFB
+var coord = document.getElementById("coord");
 
-logistc.onclick = function clear() {
+coord.onclick = function clear() {
     let cont = document.getElementById("space");
     cont.innerHTML = "";
     cont.innerHTML = `<div class="content">
@@ -810,10 +694,3 @@ logistc.onclick = function clear() {
 
     </div>`;
 }
-
-
-
-
-
-
-

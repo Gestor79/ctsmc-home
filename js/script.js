@@ -93,6 +93,8 @@ links.onclick = function clear() {
         <p class="m-title">LICITAÇÕES</p>
     </div>
 
+    
+
     <div class="bt">
         <a class="link-bt" href="https://www.diariomunicipal.com.br/maceio" target="_blank">
             <div>
@@ -162,6 +164,18 @@ notas.onclick = function clear() {
         </a>
         <p class="m-title">CONTROLE DE <br>LICITAÇÕES</p>
     </div>
+
+    <div class="bt">
+        <a class="link-bt" href="https://script.google.com/macros/s/AKfycbzPBz7K_XKFIztKvuGlj0eZBPp12fxCMudQksyACVAgy1izhd0HLpBfqkwHKcNBGxZhvQ/exec" target="_blank">
+            <div>
+                <img class="logo-op"
+                    src="./img/consped.png"
+                    alt="logo CONSULTA">
+
+            </div>
+        </a>
+        <p class="m-title">CONSULTA DE <br>RECEBIMENTO</p>
+    </div>
     
     <div class="bt">
       <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxOWgGd4GyrFWCz2YKPm48YPkDv8VDDmknU25ffbAfTk_ThRgOaHbT19EXTTHIo2nwxmg/exec" target="_blank">
@@ -198,17 +212,6 @@ notas.onclick = function clear() {
         <p class="m-title">DASHBOARD DE<br> FORNECIMENTO</p>
     </div>
     
-    <div class="bt">
-        <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
-            <div>
-                <img class="logo-op"
-                    src="./img/ENTREGA.png"
-                    alt="logo ENTREGA">
-
-            </div>
-        </a>
-        <p class="m-title">RELATÓRIO DE<br> RECEBIMENTO</p>
-    </div>
 
  <div class="bt">
     <a class="link-bt" href="https://docs.google.com/spreadsheets/d/12wZFdK-OZtVdjdblo9anzPEUcmKUl7clcP8hV2KJ-8I/edit?gid=0#gid=0" target="_blank">
@@ -658,22 +661,7 @@ coord.onclick = function clear() {
         </a>
         <p class="m-title">DASHBOARD DE <br>FORNECIMENTO</p>
     </div>
-
-
-    
-
-    <div class="bt">
-        <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
-            <div>
-                <img class="logo-op"
-                    src="./img/ENTREGA.png"
-                    alt="logo ENTREGA">
-
-            </div>
-        </a>
-        <p class="m-title">DASHBOARD DE <br>RECEBIMENTO</p>
-    </div>
-    
+      
     <div class="bt">
     <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
         <div>

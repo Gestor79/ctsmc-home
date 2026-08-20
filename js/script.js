@@ -200,19 +200,7 @@ notas.onclick = function clear() {
         <p class="m-title">CONTROLE DE <br>ESTOQUE E AQUISIÇÃO</p>
     </div>
    
-    // <div class="bt">
-    //     <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
-    //         <div>
-    //             <img class="logo-op"
-    //                 src="./img/DASHBOARD.png"
-    //                 alt="logo DASHBOARD">
-
-    //         </div>
-    //     </a>
-    //     <p class="m-title">DASHBOARD DE<br> FORNECIMENTO</p>
-    // </div>
-    
-
+   
  <div class="bt">
     <a class="link-bt" href="https://docs.google.com/spreadsheets/d/12wZFdK-OZtVdjdblo9anzPEUcmKUl7clcP8hV2KJ-8I/edit?gid=0#gid=0" target="_blank">
         <div>

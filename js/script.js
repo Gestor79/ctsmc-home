@@ -638,18 +638,7 @@ coord.onclick = function clear() {
         <p class="m-title">CONSULTA DE <br>RECEBIMENTO</p>
     </div>
 
-    // <div class="bt">
-    //     <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
-    //         <div>
-    //             <img class="logo-op"
-    //                 src="./img/DASHBOARD.png"
-    //                 alt="logo DASHBOARD">
-
-    //         </div>
-    //     </a>
-    //     <p class="m-title">DASHBOARD DE <br>FORNECIMENTO</p>
-    // </div>
-      
+         
     <div class="bt">
     <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
         <div>

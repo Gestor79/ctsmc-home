@@ -178,7 +178,7 @@ notas.onclick = function clear() {
     </div>
     
     <div class="bt">
-      <a class="link-bt" href="https://script.google.com/macros/s/AKfycbxOWgGd4GyrFWCz2YKPm48YPkDv8VDDmknU25ffbAfTk_ThRgOaHbT19EXTTHIo2nwxmg/exec" target="_blank">
+      <a class="link-bt" href="https://script.google.com/macros/s/AKfycbwph9X2SfoOvwjHzBpI3RijI0etM8FWkM-FvRYuImP_T2R9tmzx9iyPqBGzzisZ1TOaDg/exec" target="_blank">
             <div>
                 <img class="logo-pln"
                     src="./img/pplogo2.png"

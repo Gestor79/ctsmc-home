@@ -187,6 +187,18 @@ notas.onclick = function clear() {
         </a>
         <p class="m-title">SISTEMA DE<br> RECURSOS HUMANOS E PROCESSOS</p>
     </div>
+
+     <div class="bt">
+        <a class="link-bt" href="https://pdfexcel-32uubvga.manus.space/" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/placaProduto2.png"
+                    alt="logo prefeitura">
+
+            </div>
+        </a>
+        <p class="m-title">PLACAS - LOTES</p>
+    </div>
     
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg" target="_blank">
@@ -238,7 +250,7 @@ logistc.onclick = function clear() {
     cont.innerHTML = `<div class="content">
     
     <div class="bt">
-        <a class="link-bt" href="https://cafestoque-ybncapwf.manus.space/" target="_blank">
+        <a class="link-bt" href="https://pdfexcel-32uubvga.manus.space/" target="_blank">
             <div>
                 <img class="logo-pln"
                     src="./img/placaProduto2.png"
